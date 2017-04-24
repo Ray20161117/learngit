@@ -6,3 +6,4 @@ Learn how to use Git.
 How?
 What?
 Creating a new branch is quick and simple.
+Add Merge.
