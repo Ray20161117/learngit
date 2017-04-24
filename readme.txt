@@ -5,4 +5,4 @@ Git tracks changes of files.
 Learn how to use Git.
 How?
 What?
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
